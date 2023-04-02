@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3giftappstorage95367441",
+  "bucketName": "giftapp-storage-95367441",
+  "policyUUID": "67ce97c6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
